@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## System Design
 
-You can use the [editor on GitHub](https://github.com/Yi-Lai-SJSU/System-Design/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Evaluation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Really
-
-### Markdown
+##### Work Solution 25%
+##### Special Case 20%
+##### Analysis 25%
+##### Tradeoff 15%
+##### Knowledge Base 15%
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
