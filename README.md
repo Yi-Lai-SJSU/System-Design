@@ -1,6 +1,7 @@
 ## System Design
 
-### Evaluation
+
+#### Part 1: Evaluation
 
 ##### Work Solution 25%
 ##### Special Case 20%
@@ -8,7 +9,19 @@
 ##### Tradeoff 15%
 ##### Knowledge Base 15%
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+#### Part 2: 4S
+##### Scenario
+ASK: Features, QPS(query per second), DAU(Daily Active User), Interface
+
+##### Services
+Split / Application / Module
+
+##### Storage
+Schema(table) / Data / SQL / NoSQL / File System
+
+##### Scale
+
 
 ```markdown
 Syntax highlighted code block
